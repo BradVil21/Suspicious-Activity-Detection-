@@ -1,5 +1,5 @@
 # Suspicious-Activity-Detection-
-[ ***READ ME*** *Below are several projects related to using Excel, Python, and SQL to detect unusual transactions within a dataset.* ]
+[ ***READ ME: *** *Below are several projects related to using Excel, Python, and SQL to detect unusual transactions within a dataset.* ]
 
 ## 1. Excel Dataset 
 
@@ -33,5 +33,5 @@ Above is the data set showing what was used to detect unusual transactions. With
    I have used Python with the provided tools for efficiently filtering and manipulating large datasets. I quickly applied various conditions to filter data based on specific criteria, which is essential for identifying suspicious transactions. **Download File Here: **
 
 
-## 4. SQL Querying
+## 3. SQL Querying
    
