@@ -29,9 +29,9 @@
 Above is the data set showing what was used to detect unusual transactions. With a step-by-step process, 1. Highlighted and identified the high-value transactions greater than or equal to $10,000. Instructions: **Home > Conditional Formatting > Highlight Cell Rules > Greater than > Choosing a desired amount **. 2. Highlighted Duplicate transactions that could indicate suspicious activity. Instructions: **Home > Conditional Formatting > Highlight Cell Rules > Duplicate values **. 3. Sheet #2 I've created a Pivot Table to summarize the data of the total transactions by the amount/location. **Download File Here: **
 
 
-2. Python Analysis
+## 2. Python Analysis
    I have used Python with the provided tools for efficiently filtering and manipulating large datasets. I quickly applied various conditions to filter data based on specific criteria, which is essential for identifying suspicious transactions. **Download File Here: **
 
 
-4. SQL Querying
+## 4. SQL Querying
    
